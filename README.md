@@ -1,4 +1,4 @@
-# ⚡ Tmc5160-Bob-Design-Files using altium ⚙️
+# ⚡ Tmc5160-Bob-Design-Files using altium ⚡
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Commits since latest](https://img.shields.io/github/commits-since/yasir-shahzad/Tmc5160-Bob-Design-Files/latest)](https://github.com/yasir-shahzad/Tmc5160-Bob-Design-Files/commits/master) 
 [![GitHub issues](https://img.shields.io/github/issues/yasir-shahzad/Tmc5160-Bob-Design-Files.svg)](https://github.com/yasir-shahzad/Tmc5160-Bob-Design-Files/issues) 
@@ -109,8 +109,6 @@ If you'd like to contribute and help bring more exciting projects to life, consi
 </div>
 
 
-
-
 ## Schematic Diagram 📉  
 The complete schematic diagram shows the electrical connections and components used in the design.  
 ![alt TMC5160 Schematic Diagram](images/TMC5160-schematic.png)
@@ -139,8 +137,6 @@ The PCB layout represents the physical arrangement of components on the printed 
 -  ABN Encoder Interface
 -  1 to 256 Microsteps
 -  2.8ARMS, 36V
-
-
 
 
 ## Requirements 📋
