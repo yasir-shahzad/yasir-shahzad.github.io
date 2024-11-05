@@ -1,13 +1,13 @@
-# ⚡ Tmc5160-Bob-Layout-Design-Files ⚙️
+# ⚡ Tmc5160-Bob-Design-Files ⚙️
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Commits since latest](https://img.shields.io/github/commits-since/yasir-shahzad/Tmc5160-Bob-Layout-Design-Files/latest)](https://github.com/yasir-shahzad/Tmc5160-Bob-Layout-Design-Files/commits/master) 
-[![GitHub issues](https://img.shields.io/github/issues/yasir-shahzad/Tmc5160-Bob-Layout-Design-Files.svg)](https://github.com/yasir-shahzad/Tmc5160-Bob-Layout-Design-Files/issues) 
-[![Downloads](https://img.shields.io/github/downloads/yasir-shahzad/Tmc5160-Bob-Layout-Design-Files/total.svg?maxAge=3600)](https://github.com/yasir-shahzad/Tmc5160-Bob-Layout-Design-Files/releases/latest) 
-![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=yasir-shahzad_Tmc5160-Bob-Layout-Design-Files)
+[![Commits since latest](https://img.shields.io/github/commits-since/yasir-shahzad/Tmc5160-Bob-Design-Files/latest)](https://github.com/yasir-shahzad/Tmc5160-Bob-Design-Files/commits/master) 
+[![GitHub issues](https://img.shields.io/github/issues/yasir-shahzad/Tmc5160-Bob-Design-Files.svg)](https://github.com/yasir-shahzad/Tmc5160-Bob-Design-Files/issues) 
+[![Downloads](https://img.shields.io/github/downloads/yasir-shahzad/Tmc5160-Bob-Design-Files/total.svg?maxAge=3600)](https://github.com/yasir-shahzad/Tmc5160-Bob-Design-Files/releases/latest) 
+![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=yasir-shahzad_Tmc5160-Bob-Design-Files)
 
-If you like **Tmc5160-Bob-Layout-Design-Files** - give it a star, or fork it and contribute!  
-[![GitHub stars](https://img.shields.io/github/stars/yasir-shahzad/Tmc5160-Bob-Layout-Design-Files.svg?style=social&label=Star)](https://github.com/yasir-shahzad/Tmc5160-Bob-Layout-Design-Files/stargazers)  
-[![GitHub forks](https://img.shields.io/github/forks/yasir-shahzad/Tmc5160-Bob-Layout-Design-Files.svg?style=social&label=Fork)](https://github.com/yasir-shahzad/Tmc5160-Bob-Layout-Design-Files/network)
+If you like **Tmc5160-Bob-Design-Files** - give it a star, or fork it and contribute!  
+[![GitHub stars](https://img.shields.io/github/stars/yasir-shahzad/Tmc5160-Bob-Design-Files.svg?style=social&label=Star)](https://github.com/yasir-shahzad/Tmc5160-Bob-Design-Files/stargazers)  
+[![GitHub forks](https://img.shields.io/github/forks/yasir-shahzad/Tmc5160-Bob-Design-Files.svg?style=social&label=Fork)](https://github.com/yasir-shahzad/Tmc5160-Bob-Design-Files/network)
 
 This repository contains the open-source schematic and PCB design files for a **Digispark ATTINY85** development board clone, created using Altium Designer. This board allows you to work with the ATTINY85 microcontroller using the Digispark platform.
 
@@ -113,11 +113,11 @@ If you'd like to contribute and help bring more exciting projects to life, consi
 
 ## Schematic Diagram 📉  
 The complete schematic diagram shows the electrical connections and components used in the design.  
-![alt ATTINY85 Schematic Diagram](images/TMC5160-schematic.png)
+![alt TMC5160 Schematic Diagram](images/TMC5160-schematic.png)
 
 ## PCB Layout 🖼️  
 The PCB layout represents the physical arrangement of components on the printed circuit board, detailing how they are positioned and connected.  
-![alt ATTINY85 PCB Layout](images/TMC5160-PCB.png)
+![alt TMC5160 PCB Layout](images/TMC5160-PCB.png)
 
 
 ## Features and Benefits 🌟
@@ -194,6 +194,6 @@ We encourage contributions to this project! Feel free to submit pull requests wi
 
 ## Thanks to all contributors ❤️
 
- <a href="https://github.com/yasir-shahzad/Tmc5160-Bob-Layout-Design-Files/graphs/contributors">
-   <img src="https://contrib.rocks/image?repo=yasir-shahzad/Tmc5160-Bob-Layout-Design-Files" />
+ <a href="https://github.com/yasir-shahzad/Tmc5160-Bob-Design-Files/graphs/contributors">
+   <img src="https://contrib.rocks/image?repo=yasir-shahzad/Tmc5160-Bob-Design-Files" />
  </a>
