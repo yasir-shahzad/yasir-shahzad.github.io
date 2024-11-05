@@ -113,11 +113,11 @@ If you'd like to contribute and help bring more exciting projects to life, consi
 
 ## Schematic Diagram 📉  
 The complete schematic diagram shows the electrical connections and components used in the design.  
-![alt ATTINY85 Schematic Diagram](images/ATtiny85-schematic.png)
+![alt ATTINY85 Schematic Diagram](images/TMC5160-schematic.png)
 
 ## PCB Layout 🖼️  
 The PCB layout represents the physical arrangement of components on the printed circuit board, detailing how they are positioned and connected.  
-![alt ATTINY85 PCB Layout](images/ATtiny85-PCB.png)
+![alt ATTINY85 PCB Layout](images/TMC5160-PCB.png)
 
 
 ## Features and Benefits 🌟
