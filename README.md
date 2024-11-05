@@ -9,7 +9,7 @@ If you like **Tmc5160-Bob-Design-Files** - give it a star, or fork it and contri
 [![GitHub stars](https://img.shields.io/github/stars/yasir-shahzad/Tmc5160-Bob-Design-Files.svg?style=social&label=Star)](https://github.com/yasir-shahzad/Tmc5160-Bob-Design-Files/stargazers)  
 [![GitHub forks](https://img.shields.io/github/forks/yasir-shahzad/Tmc5160-Bob-Design-Files.svg?style=social&label=Fork)](https://github.com/yasir-shahzad/Tmc5160-Bob-Design-Files/network)
 
-This repository contains the open-source schematic and PCB design files for a **Digispark ATTINY85** development board clone, created using Altium Designer. This board allows you to work with the ATTINY85 microcontroller using the Digispark platform.
+This repository contains the open-source schematic and PCB design files for a **Trinamic TMC5160** development board clone, created using Altium Designer. This board allows you to work with the Trinamic Stepper-driver.
 
 **Support My Work and Future Projects**:  🚀✨  
 If you'd like to contribute and help bring more exciting projects to life, consider sponsoring my work. Every bit of support is greatly appreciated and helps me continue creating valuable tools and solutions.
@@ -184,7 +184,7 @@ The PCB layout represents the physical arrangement of components on the printed 
 
 ## Additional Information ℹ️
 
-- **Firmware**: This repository does not include the firmware. You can program the board using the Arduino IDE by installing the Digispark ATTINY85 board package from the boards manager.
+- **Firmware**: This repository does not include the firmware. You can program the board using the Arduino IDE by installing the Trinamic TMC5160 board package from the boards manager.
 - **Assembly instructions (optional)**: 🔧 Consider adding a separate document or webpage with detailed instructions on soldering and assembling the PCB (if applicable).
 - **License**: 📄 Specify the open-source license used for the design files (e.g., MIT License).
 
