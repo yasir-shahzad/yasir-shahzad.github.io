@@ -1,4 +1,4 @@
-# ⚡ Tmc5160-Bob-Design-Files ⚙️
+# ⚡ Tmc5160-Bob-Design-Files using altium ⚙️
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Commits since latest](https://img.shields.io/github/commits-since/yasir-shahzad/Tmc5160-Bob-Design-Files/latest)](https://github.com/yasir-shahzad/Tmc5160-Bob-Design-Files/commits/master) 
 [![GitHub issues](https://img.shields.io/github/issues/yasir-shahzad/Tmc5160-Bob-Design-Files.svg)](https://github.com/yasir-shahzad/Tmc5160-Bob-Design-Files/issues) 
@@ -9,7 +9,7 @@ If you like **Tmc5160-Bob-Design-Files** - give it a star, or fork it and contri
 [![GitHub stars](https://img.shields.io/github/stars/yasir-shahzad/Tmc5160-Bob-Design-Files.svg?style=social&label=Star)](https://github.com/yasir-shahzad/Tmc5160-Bob-Design-Files/stargazers)  
 [![GitHub forks](https://img.shields.io/github/forks/yasir-shahzad/Tmc5160-Bob-Design-Files.svg?style=social&label=Fork)](https://github.com/yasir-shahzad/Tmc5160-Bob-Design-Files/network)
 
-This repository contains the open-source schematic and PCB design files for a **Trinamic TMC5160** development board clone, created using Altium Designer. This board allows you to work with the Trinamic Stepper-driver.
+This repository includes open-source schematic and PCB design files for a **Trinamic TMC5160** development board clone, designed in Altium Designer. This board enables easy integration and control of the Trinamic stepper driver.
 
 **Support My Work and Future Projects**:  🚀✨  
 If you'd like to contribute and help bring more exciting projects to life, consider sponsoring my work. Every bit of support is greatly appreciated and helps me continue creating valuable tools and solutions.
@@ -184,7 +184,7 @@ The PCB layout represents the physical arrangement of components on the printed 
 
 ## Additional Information ℹ️
 
-- **Firmware**: This repository does not include the firmware. You can program the board using the Arduino IDE by installing the Trinamic TMC5160 board package from the boards manager.
+- **Firmware**: This repository does not include firmware. I’ve created a separate C++ library compatible with all Linux platforms using the GCC compiler; you can find it by searching the repositories.
 - **Assembly instructions (optional)**: 🔧 Consider adding a separate document or webpage with detailed instructions on soldering and assembling the PCB (if applicable).
 - **License**: 📄 Specify the open-source license used for the design files (e.g., MIT License).
 
